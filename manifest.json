@@ -1,0 +1,35 @@
+{
+	"manifest_version": 2,
+
+	"name": "Link Target Indicator",
+	"description": "Adds an icon to show where a link will open",
+	"author": "Mark Kenny",
+	"homepage_url": "https://beingmrkenny.co.uk/web-extensions/link-target-indicator",
+	"version": "0.9",
+
+	"icons": {
+		"16": "img/16.png",
+		"48": "img/48.png",
+		"128": "img/128.png"
+	},
+
+	"permissions": [
+		"storage"
+	],
+
+	"content_scripts": [
+		{
+			"js": ["link-target-indicator.js"],
+			"include_globs": ["*://*/*"],
+			"matches": ["*://*/*"],
+			"run_at": "document_end"
+		},
+		{
+			"css": ["link-target-indicator.css"],
+			"include_globs": ["*://*/*"],
+			"matches": ["*://*/*"],
+			"run_at": "document_start"
+		}
+	]
+
+}
