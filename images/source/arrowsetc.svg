@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="-50.526" y="193.713" angle="90"/>
+    <bx:guide x="271.9" y="316.539" angle="45"/>
+    <bx:guide x="272.285" y="316.436" angle="-45"/>
+    <bx:guide x="196.316" y="406.53" angle="0"/>
+    <bx:guide x="189.176" y="414.014" angle="90"/>
+    <bx:guide x="272.137" y="353.662" angle="0"/>
+    <bx:guide x="281.244" y="316.303" angle="90"/>
+  </defs>
+  <rect x="70.909" y="93.948" width="94.806" height="94.806" style="fill: none; stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+  <path fill="none" stroke="#000" d="M 131.991 110.939 L 156.832 135.839 L 131.991 160.719 M 156.832 135.839 L 92.919 135.839" style="stroke-width: 10px;" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -59.477494, 128.086636)"/>
+  <path d="M 183.593 170.018 M 88.787 75.212 M 88.787 75.212 L 183.593 75.212 L 183.593 170.018" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 10px;"/>
+  <rect x="222.2" y="93.638" width="94.806" height="94.806" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 10px;"/>
+  <path fill="none" stroke="#000" d="M 271.204 122.642 L 296.059 147.559 L 271.204 172.423 M 296.059 147.559 L 232.146 147.559" style="stroke-width: 10px;" transform="matrix(-0.707107, 0.707107, -0.707107, -0.707107, 555.191479, 65.151155)"/>
+  <path d="M 334.884 169.708 M 240.078 74.902 M 240.078 74.902 L 334.884 74.902 L 334.884 169.708" style="fill: none; stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+  <rect x="43.21" y="305.688" width="94.806" height="94.806" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 10px;"/>
+  <path fill="none" stroke="#000" d="M 96.581 334.503 L 118.508 356.47 L 96.581 378.403 M 118.508 356.47 L 63.577 356.47" style="stroke-width: 10px;" transform="matrix(0, 1, -1, 0, 447.495504, 265.410501)"/>
+  <path fill="none" stroke="#000" d="M 80.057 313.019 L 101.984 334.986 L 80.057 356.919" style="stroke-width: 10px;" transform="matrix(0, -1, 1, 0, -243.948509, 425.98951)"/>
+  <rect x="200.284" y="327.791" width="94.806" height="94.806" style="fill: none; stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+  <rect x="367.85" y="242.642" width="94.806" height="94.806" style="fill: none; stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+  <g transform="matrix(1, 0, 0, 1, 143.100357, -26.154125)">
+    <path fill="none" d="M 295.092 293.616 L 249.401 339.313" style="stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+    <path fill="none" d="M 295.092 293.616 L 249.401 339.313" style="stroke-width: 10px; stroke: rgb(194, 194, 194);" transform="matrix(0, -1, 1, 0, -44.217987, 588.710999)"/>
+  </g>
+  <rect x="362.657" y="388.213" width="94.806" height="94.806" style="fill: none; stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+  <g transform="matrix(1, 0, 0, 1, 199.203079, 7.174356)">
+    <path fill="none" d="M 199.881 417.518 L 221.808 439.485" style="stroke-width: 10px; stroke: rgb(194, 194, 194);" transform="matrix(0, -1, 1, 0, -217.656998, 639.345993)"/>
+    <path fill="none" d="M 199.875 417.549 L 221.802 439.516" style="stroke-width: 10px; stroke: rgb(194, 194, 194);"/>
+  </g>
+  <circle style="fill: rgb(194, 194, 194);" cx="247.545" cy="375.243" r="9.981"/>
+</svg>

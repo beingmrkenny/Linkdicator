@@ -1,0 +1,18 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <path fill="none" stroke-width="10" stroke="#c2c2c2" d="M70.909 93.948h94.806v94.806H70.909z"/>
+  <path fill="none" stroke="#000" d="M112.3 113.2l35.172.042.028 35.158m-.028-35.158l-45.193 45.194" stroke-width="10"/>
+  <path d="M88.78699999999999 75.212h94.806v94.806M222.2 93.638h94.806v94.806H222.2z" stroke="#000" fill="none" stroke-width="10"/>
+  <path fill="none" stroke="#000" d="M276.7 170.2l-35.194-.043L241.5 135m.006 35.157l45.193-45.194" stroke-width="10"/>
+  <path d="M240.07800000000003 74.902h94.806v94.806" fill="none" stroke-width="10" stroke="#c2c2c2"/>
+  <path stroke="#000" fill="none" stroke-width="10" d="M43.21 305.688h94.806v94.806H43.21z"/>
+  <path fill="none" stroke="#000" d="M112.993 361.992l-21.967 21.927-21.933-21.927m21.933 21.927v-54.931M69.07 345.933l21.967-21.927 21.933 21.927" stroke-width="10"/>
+  <path fill="none" stroke-width="10" stroke="#c2c2c2" d="M200.284 327.791h94.806v94.806h-94.806zM367.85 242.642h94.806v94.806H367.85z"/>
+  <g fill="none" stroke-width="10" stroke="#c2c2c2">
+    <path d="M438.192 267.462l-45.69 45.697M392.498 267.465l45.697 45.69"/>
+  </g>
+  <path fill="none" stroke-width="10" stroke="#c2c2c2" d="M362.657 388.213h94.806v94.806h-94.806z"/>
+  <g fill="none" stroke-width="10" stroke="#c2c2c2">
+    <path d="M399.064 446.64l21.967-21.928M399.078 424.723l21.927 21.967"/>
+  </g>
+  <circle cx="247.545" cy="375.243" r="9.981" fill="#c2c2c2"/>
+</svg>
